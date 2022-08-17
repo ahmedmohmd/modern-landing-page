@@ -45,4 +45,4 @@ This is the Source Code [**Landing Page**](...) Website.
 
 # Website Screenshot
 
-![Modern Landing Page](...)
+![Modern Landing Page](https://github.com/ahmedmohmd/modern-landing-page/blob/main/app-screenshot.png?raw=true)
