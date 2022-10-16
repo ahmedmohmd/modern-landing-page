@@ -34,11 +34,13 @@ This is the Source Code [**Landing Page**](...) Website.
 <div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
   <a href="https://reactjs.org/"><img src="https://cdn-icons-png.flaticon.com/512/3334/3334886.png" alt="drawing" width="48" height="48"/></a>
   <a href="https://tailwindcss.com/"><img src="https://tailwindcss.com/_next/static/media/tailwindcss-mark.79614a5f61617ba49a0891494521226b.svg" width="48" height="48"/></a>
+  <a href="https://www.typescriptlang.org/"><img src="https://cdn-icons-png.flaticon.com/128/5968/5968381.png" width="48" height="48"/></a>
 </div>
 
 ### Other Libs & Packages:
 
 - [**Preline UI**](https://preline.co/docs/index.html)
+- [**styled-components**](https://styled-components.com/)
 - [**clsx**](https://www.npmjs.com/package/clsx)
 
 ---
