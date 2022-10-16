@@ -1,18 +1,18 @@
 # Modern Landing Page
 
-This is the Source Code [**Landing Page**](...) Website.
+This is the Source Code [**Landing Page**](https://modernlandingpage.vercel.app/) Website.
 
 ---
 
 # Discreption
 
-[**Modern Landing Page**] Website is a Landing Page that build with modern Framework and Frontend Tools Like React JS Tailwind ...etc.
+[**Modern Landing Page**](https://modernlandingpage.vercel.app/) Website is a Landing Page that build with modern Framework and Frontend Tools Like React JS Tailwind and more.
 
 ---
 
 # App Features
 
-- Reponsive
+- Responsive
 - Nice Design with Tailwind Framework
 - Speed & Good Performance
 - A lot of Extensions and Packages
@@ -21,7 +21,7 @@ This is the Source Code [**Landing Page**](...) Website.
 
 # Languages & Technologies
 
-### Languages That used in this Web App:
+### Languages used in this Web App:
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="drawing" width="48" height="48"/></a>
